@@ -10,3 +10,4 @@
 - [Unordered list containing hyperlinks](https://gkjoyes.github.io/html-css/part1/8-list.html)
 - [Nested lists and ordered lists](https://gkjoyes.github.io/html-css/part1/9-nested-list.html)
 - [Creating a basic table](https://gkjoyes.github.io/html-css/part1/10-table1.html)
+- [Complex HTML5 table](https://gkjoyes.github.io/html-css/part1/11-table2.html)
