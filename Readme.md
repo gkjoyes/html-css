@@ -8,3 +8,4 @@
 - [Images as link anchors](https://gkjoyes.github.io/html-css/part1/6-nav.html)
 - [Inserting special characters](https://gkjoyes.github.io/html-css/part1/7-special-characters.html)
 - [Unordered list containing hyperlinks](https://gkjoyes.github.io/html-css/part1/8-list.html)
+- [Nested lists and ordered lists](https://gkjoyes.github.io/html-css/part1/9-nested-list.html)
