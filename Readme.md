@@ -7,3 +7,4 @@
 - [Including images](https://gkjoyes.github.io/html-css/part1/5-images.html)
 - [Images as link anchors](https://gkjoyes.github.io/html-css/part1/6-nav.html)
 - [Inserting special characters](https://gkjoyes.github.io/html-css/part1/7-special-characters.html)
+- [Unordered list containing hyperlinks](https://gkjoyes.github.io/html-css/part1/8-list.html)
