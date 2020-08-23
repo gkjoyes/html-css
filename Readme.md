@@ -16,3 +16,4 @@
 - [Meta elements provide keywords and a description of a page](https://gkjoyes.github.io/html-css/part1/14-meta.html)
 - [New HTML5 form inputs types and attributes](https://gkjoyes.github.io/html-css/part2/1-form-inputs.html)
 - [New HTML5 form autocomplete attribute and datalist element](https://gkjoyes.github.io/html-css/part2/2-autocomplete.html)
+- [New HTML5 section elements](https://gkjoyes.github.io/html-css/part2/3-section-elements.html)
